@@ -109,8 +109,8 @@ id: Sri Lanka
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sri_Lanka//
-markerFolder: ./Sri_Lanka//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Sri Lanka] 
