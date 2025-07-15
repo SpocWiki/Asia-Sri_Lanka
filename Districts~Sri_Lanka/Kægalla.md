@@ -40,11 +40,18 @@ markerFolder: ./Kægalla/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kægalla|Kægalla]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kægalla.public|Kægalla.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kægalla.internal|Kægalla.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kægalla.protect|Kægalla.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kægalla.private|Kægalla.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kægalla.personal|Kægalla.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kægalla.secret|Kægalla.secret]] 
+
+### #is_/same_as :: [Kægalla](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kægalla.md) 
+
+### #is_/same_as :: [Kægalla.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kægalla.public.md) 
+
+### #is_/same_as :: [Kægalla.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kægalla.internal.md) 
+
+### #is_/same_as :: [Kægalla.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kægalla.protect.md) 
+
+### #is_/same_as :: [Kægalla.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kægalla.private.md) 
+
+### #is_/same_as :: [Kægalla.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kægalla.personal.md) 
+
+### #is_/same_as :: [Kægalla.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kægalla.secret.md)
 

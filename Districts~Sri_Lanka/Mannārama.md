@@ -40,11 +40,18 @@ markerFolder: ./Mannārama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mannārama|Mannārama]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mannārama.public|Mannārama.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mannārama.internal|Mannārama.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mannārama.protect|Mannārama.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mannārama.private|Mannārama.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mannārama.personal|Mannārama.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mannārama.secret|Mannārama.secret]] 
+
+### #is_/same_as :: [Mannārama](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mannārama.md) 
+
+### #is_/same_as :: [Mannārama.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mannārama.public.md) 
+
+### #is_/same_as :: [Mannārama.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mannārama.internal.md) 
+
+### #is_/same_as :: [Mannārama.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mannārama.protect.md) 
+
+### #is_/same_as :: [Mannārama.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mannārama.private.md) 
+
+### #is_/same_as :: [Mannārama.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mannārama.personal.md) 
+
+### #is_/same_as :: [Mannārama.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mannārama.secret.md)
 

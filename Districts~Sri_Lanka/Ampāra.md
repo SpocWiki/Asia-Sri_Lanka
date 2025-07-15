@@ -40,11 +40,18 @@ markerFolder: ./Ampāra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ampāra|Ampāra]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ampāra.public|Ampāra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ampāra.internal|Ampāra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ampāra.protect|Ampāra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ampāra.private|Ampāra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ampāra.personal|Ampāra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ampāra.secret|Ampāra.secret]] 
+
+### #is_/same_as :: [Ampāra](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ampāra.md) 
+
+### #is_/same_as :: [Ampāra.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ampāra.public.md) 
+
+### #is_/same_as :: [Ampāra.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ampāra.internal.md) 
+
+### #is_/same_as :: [Ampāra.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ampāra.protect.md) 
+
+### #is_/same_as :: [Ampāra.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ampāra.private.md) 
+
+### #is_/same_as :: [Ampāra.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ampāra.personal.md) 
+
+### #is_/same_as :: [Ampāra.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ampāra.secret.md)
 

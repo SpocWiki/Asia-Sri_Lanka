@@ -40,11 +40,18 @@ markerFolder: ./Yāpanaya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya|Yāpanaya]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.public|Yāpanaya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.internal|Yāpanaya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.protect|Yāpanaya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.private|Yāpanaya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.personal|Yāpanaya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.secret|Yāpanaya.secret]] 
+
+### #is_/same_as :: [Yāpanaya](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Yāpanaya.md) 
+
+### #is_/same_as :: [Yāpanaya.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Yāpanaya.public.md) 
+
+### #is_/same_as :: [Yāpanaya.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Yāpanaya.internal.md) 
+
+### #is_/same_as :: [Yāpanaya.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Yāpanaya.protect.md) 
+
+### #is_/same_as :: [Yāpanaya.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Yāpanaya.private.md) 
+
+### #is_/same_as :: [Yāpanaya.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Yāpanaya.personal.md) 
+
+### #is_/same_as :: [Yāpanaya.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Yāpanaya.secret.md)
 

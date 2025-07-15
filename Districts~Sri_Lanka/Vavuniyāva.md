@@ -40,11 +40,18 @@ markerFolder: ./Vavuniyāva/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Vavuniyāva|Vavuniyāva]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Vavuniyāva.public|Vavuniyāva.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Vavuniyāva.internal|Vavuniyāva.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Vavuniyāva.protect|Vavuniyāva.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Vavuniyāva.private|Vavuniyāva.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Vavuniyāva.personal|Vavuniyāva.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Vavuniyāva.secret|Vavuniyāva.secret]] 
+
+### #is_/same_as :: [Vavuniyāva](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.md) 
+
+### #is_/same_as :: [Vavuniyāva.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.public.md) 
+
+### #is_/same_as :: [Vavuniyāva.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.internal.md) 
+
+### #is_/same_as :: [Vavuniyāva.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.protect.md) 
+
+### #is_/same_as :: [Vavuniyāva.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.private.md) 
+
+### #is_/same_as :: [Vavuniyāva.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.personal.md) 
+
+### #is_/same_as :: [Vavuniyāva.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.secret.md)
 

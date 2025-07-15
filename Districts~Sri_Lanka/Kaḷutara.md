@@ -40,11 +40,18 @@ markerFolder: ./Kaḷutara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara|Kaḷutara]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.public|Kaḷutara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.internal|Kaḷutara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.protect|Kaḷutara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.private|Kaḷutara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.personal|Kaḷutara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.secret|Kaḷutara.secret]] 
+
+### #is_/same_as :: [Kaḷutara](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.md) 
+
+### #is_/same_as :: [Kaḷutara.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.public.md) 
+
+### #is_/same_as :: [Kaḷutara.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.internal.md) 
+
+### #is_/same_as :: [Kaḷutara.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.protect.md) 
+
+### #is_/same_as :: [Kaḷutara.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.private.md) 
+
+### #is_/same_as :: [Kaḷutara.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.personal.md) 
+
+### #is_/same_as :: [Kaḷutara.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.secret.md)
 

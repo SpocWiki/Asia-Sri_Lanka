@@ -40,11 +40,18 @@ markerFolder: ./Anurādhapura/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura|Anurādhapura]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.public|Anurādhapura.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.internal|Anurādhapura.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.protect|Anurādhapura.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.private|Anurādhapura.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.personal|Anurādhapura.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.secret|Anurādhapura.secret]] 
+
+### #is_/same_as :: [Anurādhapura](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.md) 
+
+### #is_/same_as :: [Anurādhapura.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.public.md) 
+
+### #is_/same_as :: [Anurādhapura.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.internal.md) 
+
+### #is_/same_as :: [Anurādhapura.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.protect.md) 
+
+### #is_/same_as :: [Anurādhapura.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.private.md) 
+
+### #is_/same_as :: [Anurādhapura.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.personal.md) 
+
+### #is_/same_as :: [Anurādhapura.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.secret.md)
 

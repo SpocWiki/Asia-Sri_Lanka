@@ -40,11 +40,18 @@ markerFolder: ./Ratnapura/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura|Ratnapura]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.public|Ratnapura.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.internal|Ratnapura.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.protect|Ratnapura.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.private|Ratnapura.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.personal|Ratnapura.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.secret|Ratnapura.secret]] 
+
+### #is_/same_as :: [Ratnapura](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ratnapura.md) 
+
+### #is_/same_as :: [Ratnapura.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ratnapura.public.md) 
+
+### #is_/same_as :: [Ratnapura.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ratnapura.internal.md) 
+
+### #is_/same_as :: [Ratnapura.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ratnapura.protect.md) 
+
+### #is_/same_as :: [Ratnapura.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ratnapura.private.md) 
+
+### #is_/same_as :: [Ratnapura.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ratnapura.personal.md) 
+
+### #is_/same_as :: [Ratnapura.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Ratnapura.secret.md)
 

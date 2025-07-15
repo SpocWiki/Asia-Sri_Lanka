@@ -40,11 +40,18 @@ markerFolder: ./Gampaha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gampaha|Gampaha]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gampaha.public|Gampaha.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gampaha.internal|Gampaha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gampaha.protect|Gampaha.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gampaha.private|Gampaha.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gampaha.personal|Gampaha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Gampaha.secret|Gampaha.secret]] 
+
+### #is_/same_as :: [Gampaha](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gampaha.md) 
+
+### #is_/same_as :: [Gampaha.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gampaha.public.md) 
+
+### #is_/same_as :: [Gampaha.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gampaha.internal.md) 
+
+### #is_/same_as :: [Gampaha.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gampaha.protect.md) 
+
+### #is_/same_as :: [Gampaha.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gampaha.private.md) 
+
+### #is_/same_as :: [Gampaha.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gampaha.personal.md) 
+
+### #is_/same_as :: [Gampaha.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gampaha.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Kuruṇægala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala|Kuruṇægala]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.public|Kuruṇægala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.internal|Kuruṇægala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.protect|Kuruṇægala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.private|Kuruṇægala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.personal|Kuruṇægala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kuruṇægala.secret|Kuruṇægala.secret]] 
+
+### #is_/same_as :: [Kuruṇægala](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kuruṇægala.md) 
+
+### #is_/same_as :: [Kuruṇægala.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kuruṇægala.public.md) 
+
+### #is_/same_as :: [Kuruṇægala.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kuruṇægala.internal.md) 
+
+### #is_/same_as :: [Kuruṇægala.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kuruṇægala.protect.md) 
+
+### #is_/same_as :: [Kuruṇægala.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kuruṇægala.private.md) 
+
+### #is_/same_as :: [Kuruṇægala.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kuruṇægala.personal.md) 
+
+### #is_/same_as :: [Kuruṇægala.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kuruṇægala.secret.md)
 

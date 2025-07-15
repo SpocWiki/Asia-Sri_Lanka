@@ -40,11 +40,18 @@ markerFolder: ./Kilinŏchchi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi|Kilinŏchchi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.public|Kilinŏchchi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.internal|Kilinŏchchi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.protect|Kilinŏchchi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.private|Kilinŏchchi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.personal|Kilinŏchchi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kilinŏchchi.secret|Kilinŏchchi.secret]] 
+
+### #is_/same_as :: [Kilinŏchchi](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.md) 
+
+### #is_/same_as :: [Kilinŏchchi.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.public.md) 
+
+### #is_/same_as :: [Kilinŏchchi.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.internal.md) 
+
+### #is_/same_as :: [Kilinŏchchi.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.protect.md) 
+
+### #is_/same_as :: [Kilinŏchchi.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.private.md) 
+
+### #is_/same_as :: [Kilinŏchchi.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.personal.md) 
+
+### #is_/same_as :: [Kilinŏchchi.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.secret.md)
 

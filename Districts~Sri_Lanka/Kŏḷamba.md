@@ -40,11 +40,18 @@ markerFolder: ./Kŏḷamba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba|Kŏḷamba]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.public|Kŏḷamba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.internal|Kŏḷamba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.protect|Kŏḷamba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.private|Kŏḷamba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.personal|Kŏḷamba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.secret|Kŏḷamba.secret]] 
+
+### #is_/same_as :: [Kŏḷamba](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba.md) 
+
+### #is_/same_as :: [Kŏḷamba.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba.public.md) 
+
+### #is_/same_as :: [Kŏḷamba.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba.internal.md) 
+
+### #is_/same_as :: [Kŏḷamba.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba.protect.md) 
+
+### #is_/same_as :: [Kŏḷamba.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba.private.md) 
+
+### #is_/same_as :: [Kŏḷamba.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba.personal.md) 
+
+### #is_/same_as :: [Kŏḷamba.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba.secret.md)
 

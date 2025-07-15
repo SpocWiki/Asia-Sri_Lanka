@@ -40,11 +40,18 @@ markerFolder: ./Mahanuvara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mahanuvara|Mahanuvara]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mahanuvara.public|Mahanuvara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mahanuvara.internal|Mahanuvara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mahanuvara.protect|Mahanuvara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mahanuvara.private|Mahanuvara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mahanuvara.personal|Mahanuvara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mahanuvara.secret|Mahanuvara.secret]] 
+
+### #is_/same_as :: [Mahanuvara](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.md) 
+
+### #is_/same_as :: [Mahanuvara.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.public.md) 
+
+### #is_/same_as :: [Mahanuvara.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.internal.md) 
+
+### #is_/same_as :: [Mahanuvara.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.protect.md) 
+
+### #is_/same_as :: [Mahanuvara.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.private.md) 
+
+### #is_/same_as :: [Mahanuvara.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.personal.md) 
+
+### #is_/same_as :: [Mahanuvara.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.secret.md)
 

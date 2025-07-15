@@ -132,10 +132,4 @@ Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Sri_Lanka|Sri_Lanka]] 
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka.internal|Sri_Lanka.internal]] 
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka.protect|Sri_Lanka.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka.private|Sri_Lanka.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka.personal|Sri_Lanka.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka.secret|Sri_Lanka.secret]] 
+

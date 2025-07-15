@@ -40,11 +40,18 @@ markerFolder: ./Mulativ/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ|Mulativ]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.public|Mulativ.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.internal|Mulativ.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.protect|Mulativ.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.private|Mulativ.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.personal|Mulativ.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Mulativ.secret|Mulativ.secret]] 
+
+### #is_/same_as :: [Mulativ](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mulativ.md) 
+
+### #is_/same_as :: [Mulativ.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mulativ.public.md) 
+
+### #is_/same_as :: [Mulativ.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mulativ.internal.md) 
+
+### #is_/same_as :: [Mulativ.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mulativ.protect.md) 
+
+### #is_/same_as :: [Mulativ.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mulativ.private.md) 
+
+### #is_/same_as :: [Mulativ.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mulativ.personal.md) 
+
+### #is_/same_as :: [Mulativ.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mulativ.secret.md)
 

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Sri_Jayawardenapura-Kotte|Sri_Jayawardenapura-Kotte]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.public|Sri_Jayawardenapura-Kotte.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.internal|Sri_Jayawardenapura-Kotte.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.protect|Sri_Jayawardenapura-Kotte.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.private|Sri_Jayawardenapura-Kotte.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.personal|Sri_Jayawardenapura-Kotte.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Sri_Jayawardenapura-Kotte.secret|Sri_Jayawardenapura-Kotte.secret]] 
+
+### #is_/same_as :: [Sri_Jayawardenapura-Kotte](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba/City/Sri_Jayawardenapura-Kotte.md) 
+
+### #is_/same_as :: [Sri_Jayawardenapura-Kotte.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba/City/Sri_Jayawardenapura-Kotte.public.md) 
+
+### #is_/same_as :: [Sri_Jayawardenapura-Kotte.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba/City/Sri_Jayawardenapura-Kotte.internal.md) 
+
+### #is_/same_as :: [Sri_Jayawardenapura-Kotte.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba/City/Sri_Jayawardenapura-Kotte.protect.md) 
+
+### #is_/same_as :: [Sri_Jayawardenapura-Kotte.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba/City/Sri_Jayawardenapura-Kotte.private.md) 
+
+### #is_/same_as :: [Sri_Jayawardenapura-Kotte.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba/City/Sri_Jayawardenapura-Kotte.personal.md) 
+
+### #is_/same_as :: [Sri_Jayawardenapura-Kotte.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kŏḷamba/City/Sri_Jayawardenapura-Kotte.secret.md)
+

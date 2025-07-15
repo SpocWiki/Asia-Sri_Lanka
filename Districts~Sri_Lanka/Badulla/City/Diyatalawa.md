@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Diyatalawa|Diyatalawa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Diyatalawa.public|Diyatalawa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Diyatalawa.internal|Diyatalawa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Diyatalawa.protect|Diyatalawa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Diyatalawa.private|Diyatalawa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Diyatalawa.personal|Diyatalawa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/City/Diyatalawa.secret|Diyatalawa.secret]] 
+
+### #is_/same_as :: [Diyatalawa](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.md) 
+
+### #is_/same_as :: [Diyatalawa.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.public.md) 
+
+### #is_/same_as :: [Diyatalawa.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.internal.md) 
+
+### #is_/same_as :: [Diyatalawa.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.protect.md) 
+
+### #is_/same_as :: [Diyatalawa.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.private.md) 
+
+### #is_/same_as :: [Diyatalawa.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.personal.md) 
+
+### #is_/same_as :: [Diyatalawa.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.secret.md)
+
