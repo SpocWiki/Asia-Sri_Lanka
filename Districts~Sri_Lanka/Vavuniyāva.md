@@ -40,17 +40,17 @@ markerFolder: ./Vavuniyāva/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vavuniyāva](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.md) 
+### #is_/same_as :: [Vavuniyāva](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.md) 
 
-### #is_/same_as :: [Vavuniyāva.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.public.md) 
+### #is_/same_as :: [Vavuniyāva.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.public.md) 
 
-### #is_/same_as :: [Vavuniyāva.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.internal.md) 
+### #is_/same_as :: [Vavuniyāva.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.internal.md) 
 
-### #is_/same_as :: [Vavuniyāva.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.protect.md) 
+### #is_/same_as :: [Vavuniyāva.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.protect.md) 
 
-### #is_/same_as :: [Vavuniyāva.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.private.md) 
+### #is_/same_as :: [Vavuniyāva.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.private.md) 
 
-### #is_/same_as :: [Vavuniyāva.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.personal.md) 
+### #is_/same_as :: [Vavuniyāva.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.personal.md) 
 
-### #is_/same_as :: [Vavuniyāva.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.secret.md)
+### #is_/same_as :: [Vavuniyāva.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.secret.md)
 

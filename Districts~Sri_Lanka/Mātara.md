@@ -40,17 +40,17 @@ markerFolder: ./Mātara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mātara](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mātara.md) 
+### #is_/same_as :: [Mātara](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mātara.md) 
 
-### #is_/same_as :: [Mātara.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mātara.public.md) 
+### #is_/same_as :: [Mātara.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mātara.public.md) 
 
-### #is_/same_as :: [Mātara.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mātara.internal.md) 
+### #is_/same_as :: [Mātara.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mātara.internal.md) 
 
-### #is_/same_as :: [Mātara.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mātara.protect.md) 
+### #is_/same_as :: [Mātara.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mātara.protect.md) 
 
-### #is_/same_as :: [Mātara.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mātara.private.md) 
+### #is_/same_as :: [Mātara.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mātara.private.md) 
 
-### #is_/same_as :: [Mātara.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mātara.personal.md) 
+### #is_/same_as :: [Mātara.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mātara.personal.md) 
 
-### #is_/same_as :: [Mātara.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mātara.secret.md)
+### #is_/same_as :: [Mātara.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mātara.secret.md)
 

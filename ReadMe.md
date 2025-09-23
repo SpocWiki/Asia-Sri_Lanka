@@ -120,11 +120,11 @@ Continent :: [[Asia]]
 [VehicleCode::CL] 
 Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]  
 
-![[Sri_Lanka/Emblem_of_Sri_Lanka.svg|350]] 
+![[Emblem_of_Sri_Lanka.svg|350]] 
 
 ![[Anthem-Sri-lanka.mp3]] 
 
-![[Sri_Lanka/Flag_of_Sri_Lanka.svg|350]] 
+![[Flag_of_Sri_Lanka.svg|350]] 
 
 [Alcohol-l::0.8] 
 [Language-Id::458] 

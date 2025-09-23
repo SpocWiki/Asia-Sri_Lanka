@@ -40,17 +40,17 @@ markerFolder: ./Mahanuvara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mahanuvara](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.md) 
+### #is_/same_as :: [Mahanuvara](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.md) 
 
-### #is_/same_as :: [Mahanuvara.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.public.md) 
+### #is_/same_as :: [Mahanuvara.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.public.md) 
 
-### #is_/same_as :: [Mahanuvara.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.internal.md) 
+### #is_/same_as :: [Mahanuvara.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.internal.md) 
 
-### #is_/same_as :: [Mahanuvara.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.protect.md) 
+### #is_/same_as :: [Mahanuvara.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.protect.md) 
 
-### #is_/same_as :: [Mahanuvara.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.private.md) 
+### #is_/same_as :: [Mahanuvara.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.private.md) 
 
-### #is_/same_as :: [Mahanuvara.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.personal.md) 
+### #is_/same_as :: [Mahanuvara.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.personal.md) 
 
-### #is_/same_as :: [Mahanuvara.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.secret.md)
+### #is_/same_as :: [Mahanuvara.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.secret.md)
 

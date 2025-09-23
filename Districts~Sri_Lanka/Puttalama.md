@@ -40,17 +40,17 @@ markerFolder: ./Puttalama/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Puttalama](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Puttalama.md) 
+### #is_/same_as :: [Puttalama](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Puttalama.md) 
 
-### #is_/same_as :: [Puttalama.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Puttalama.public.md) 
+### #is_/same_as :: [Puttalama.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Puttalama.public.md) 
 
-### #is_/same_as :: [Puttalama.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Puttalama.internal.md) 
+### #is_/same_as :: [Puttalama.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Puttalama.internal.md) 
 
-### #is_/same_as :: [Puttalama.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Puttalama.protect.md) 
+### #is_/same_as :: [Puttalama.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Puttalama.protect.md) 
 
-### #is_/same_as :: [Puttalama.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Puttalama.private.md) 
+### #is_/same_as :: [Puttalama.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Puttalama.private.md) 
 
-### #is_/same_as :: [Puttalama.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Puttalama.personal.md) 
+### #is_/same_as :: [Puttalama.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Puttalama.personal.md) 
 
-### #is_/same_as :: [Puttalama.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Puttalama.secret.md)
+### #is_/same_as :: [Puttalama.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Puttalama.secret.md)
 

@@ -40,17 +40,17 @@ markerFolder: ./Anurādhapura/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anurādhapura](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.md) 
+### #is_/same_as :: [Anurādhapura](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.md) 
 
-### #is_/same_as :: [Anurādhapura.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.public.md) 
+### #is_/same_as :: [Anurādhapura.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.public.md) 
 
-### #is_/same_as :: [Anurādhapura.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.internal.md) 
+### #is_/same_as :: [Anurādhapura.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.internal.md) 
 
-### #is_/same_as :: [Anurādhapura.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.protect.md) 
+### #is_/same_as :: [Anurādhapura.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.protect.md) 
 
-### #is_/same_as :: [Anurādhapura.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.private.md) 
+### #is_/same_as :: [Anurādhapura.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.private.md) 
 
-### #is_/same_as :: [Anurādhapura.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.personal.md) 
+### #is_/same_as :: [Anurādhapura.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.personal.md) 
 
-### #is_/same_as :: [Anurādhapura.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.secret.md)
+### #is_/same_as :: [Anurādhapura.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Anurādhapura.secret.md)
 

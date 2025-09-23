@@ -40,17 +40,17 @@ markerFolder: ./Mŏṇarāgala/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mŏṇarāgala](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.md) 
+### #is_/same_as :: [Mŏṇarāgala](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.md) 
 
-### #is_/same_as :: [Mŏṇarāgala.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.public.md) 
+### #is_/same_as :: [Mŏṇarāgala.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.public.md) 
 
-### #is_/same_as :: [Mŏṇarāgala.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.internal.md) 
+### #is_/same_as :: [Mŏṇarāgala.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.internal.md) 
 
-### #is_/same_as :: [Mŏṇarāgala.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.protect.md) 
+### #is_/same_as :: [Mŏṇarāgala.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.protect.md) 
 
-### #is_/same_as :: [Mŏṇarāgala.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.private.md) 
+### #is_/same_as :: [Mŏṇarāgala.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.private.md) 
 
-### #is_/same_as :: [Mŏṇarāgala.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.personal.md) 
+### #is_/same_as :: [Mŏṇarāgala.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.personal.md) 
 
-### #is_/same_as :: [Mŏṇarāgala.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.secret.md)
+### #is_/same_as :: [Mŏṇarāgala.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.secret.md)
 

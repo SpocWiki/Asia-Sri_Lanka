@@ -40,17 +40,17 @@ markerFolder: ./Kilinŏchchi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kilinŏchchi](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.md) 
+### #is_/same_as :: [Kilinŏchchi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.md) 
 
-### #is_/same_as :: [Kilinŏchchi.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.public.md) 
+### #is_/same_as :: [Kilinŏchchi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.public.md) 
 
-### #is_/same_as :: [Kilinŏchchi.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.internal.md) 
+### #is_/same_as :: [Kilinŏchchi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.internal.md) 
 
-### #is_/same_as :: [Kilinŏchchi.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.protect.md) 
+### #is_/same_as :: [Kilinŏchchi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.protect.md) 
 
-### #is_/same_as :: [Kilinŏchchi.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.private.md) 
+### #is_/same_as :: [Kilinŏchchi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.private.md) 
 
-### #is_/same_as :: [Kilinŏchchi.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.personal.md) 
+### #is_/same_as :: [Kilinŏchchi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.personal.md) 
 
-### #is_/same_as :: [Kilinŏchchi.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.secret.md)
+### #is_/same_as :: [Kilinŏchchi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kilinŏchchi.secret.md)
 

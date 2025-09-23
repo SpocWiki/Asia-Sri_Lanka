@@ -40,17 +40,17 @@ markerFolder: ./Gālla/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gālla](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gālla.md) 
+### #is_/same_as :: [Gālla](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Gālla.md) 
 
-### #is_/same_as :: [Gālla.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gālla.public.md) 
+### #is_/same_as :: [Gālla.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Gālla.public.md) 
 
-### #is_/same_as :: [Gālla.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gālla.internal.md) 
+### #is_/same_as :: [Gālla.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Gālla.internal.md) 
 
-### #is_/same_as :: [Gālla.protect](/_protect/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gālla.protect.md) 
+### #is_/same_as :: [Gālla.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Gālla.protect.md) 
 
-### #is_/same_as :: [Gālla.private](/_private/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gālla.private.md) 
+### #is_/same_as :: [Gālla.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Gālla.private.md) 
 
-### #is_/same_as :: [Gālla.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gālla.personal.md) 
+### #is_/same_as :: [Gālla.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Gālla.personal.md) 
 
-### #is_/same_as :: [Gālla.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka/Districts~Sri_Lanka/Gālla.secret.md)
+### #is_/same_as :: [Gālla.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Gālla.secret.md)
 
