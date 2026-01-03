@@ -28,3 +28,20 @@ has_id_wikidata: Q1584837
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Sri%20Lanka) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/History_of_Sri_Lanka|History_of_Sri_Lanka]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/History_of_Sri_Lanka.public|History_of_Sri_Lanka.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/History_of_Sri_Lanka.internal|History_of_Sri_Lanka.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/History_of_Sri_Lanka.protect|History_of_Sri_Lanka.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/History_of_Sri_Lanka.private|History_of_Sri_Lanka.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/History_of_Sri_Lanka.personal|History_of_Sri_Lanka.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/History_of_Sri_Lanka.secret|History_of_Sri_Lanka.secret]] 
+

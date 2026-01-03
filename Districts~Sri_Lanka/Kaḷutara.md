@@ -40,17 +40,17 @@ markerFolder: ./Kaḷutara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaḷutara](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara|Kaḷutara]] 
 
-### #is_/same_as :: [Kaḷutara.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.public|Kaḷutara.public]] 
 
-### #is_/same_as :: [Kaḷutara.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.internal|Kaḷutara.internal]] 
 
-### #is_/same_as :: [Kaḷutara.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.protect|Kaḷutara.protect]] 
 
-### #is_/same_as :: [Kaḷutara.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.private|Kaḷutara.private]] 
 
-### #is_/same_as :: [Kaḷutara.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.personal|Kaḷutara.personal]] 
 
-### #is_/same_as :: [Kaḷutara.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Kaḷutara.secret|Kaḷutara.secret]] 
 

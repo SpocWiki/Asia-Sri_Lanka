@@ -40,17 +40,17 @@ markerFolder: ./Nuvara_Ĕliya/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuvara_Ĕliya](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya|Nuvara_Ĕliya]] 
 
-### #is_/same_as :: [Nuvara_Ĕliya.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.public|Nuvara_Ĕliya.public]] 
 
-### #is_/same_as :: [Nuvara_Ĕliya.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.internal|Nuvara_Ĕliya.internal]] 
 
-### #is_/same_as :: [Nuvara_Ĕliya.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.protect|Nuvara_Ĕliya.protect]] 
 
-### #is_/same_as :: [Nuvara_Ĕliya.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.private|Nuvara_Ĕliya.private]] 
 
-### #is_/same_as :: [Nuvara_Ĕliya.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.personal|Nuvara_Ĕliya.personal]] 
 
-### #is_/same_as :: [Nuvara_Ĕliya.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Nuvara_Ĕliya.secret|Nuvara_Ĕliya.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Mŏṇarāgala/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mŏṇarāgala](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala|Mŏṇarāgala]] 
 
-### #is_/same_as :: [Mŏṇarāgala.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.public|Mŏṇarāgala.public]] 
 
-### #is_/same_as :: [Mŏṇarāgala.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.internal|Mŏṇarāgala.internal]] 
 
-### #is_/same_as :: [Mŏṇarāgala.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.protect|Mŏṇarāgala.protect]] 
 
-### #is_/same_as :: [Mŏṇarāgala.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.private|Mŏṇarāgala.private]] 
 
-### #is_/same_as :: [Mŏṇarāgala.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.personal|Mŏṇarāgala.personal]] 
 
-### #is_/same_as :: [Mŏṇarāgala.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mŏṇarāgala.secret|Mŏṇarāgala.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Vavuniyāva/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vavuniyāva](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva|Vavuniyāva]] 
 
-### #is_/same_as :: [Vavuniyāva.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.public|Vavuniyāva.public]] 
 
-### #is_/same_as :: [Vavuniyāva.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.internal|Vavuniyāva.internal]] 
 
-### #is_/same_as :: [Vavuniyāva.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.protect|Vavuniyāva.protect]] 
 
-### #is_/same_as :: [Vavuniyāva.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.private|Vavuniyāva.private]] 
 
-### #is_/same_as :: [Vavuniyāva.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.personal|Vavuniyāva.personal]] 
 
-### #is_/same_as :: [Vavuniyāva.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Vavuniyāva.secret|Vavuniyāva.secret]] 
 

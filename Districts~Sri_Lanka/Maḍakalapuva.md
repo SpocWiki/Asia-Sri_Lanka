@@ -40,17 +40,17 @@ markerFolder: ./Maḍakalapuva/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maḍakalapuva](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva|Maḍakalapuva]] 
 
-### #is_/same_as :: [Maḍakalapuva.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.public|Maḍakalapuva.public]] 
 
-### #is_/same_as :: [Maḍakalapuva.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.internal|Maḍakalapuva.internal]] 
 
-### #is_/same_as :: [Maḍakalapuva.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.protect|Maḍakalapuva.protect]] 
 
-### #is_/same_as :: [Maḍakalapuva.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.private|Maḍakalapuva.private]] 
 
-### #is_/same_as :: [Maḍakalapuva.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.personal|Maḍakalapuva.personal]] 
 
-### #is_/same_as :: [Maḍakalapuva.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Maḍakalapuva.secret|Maḍakalapuva.secret]] 
 

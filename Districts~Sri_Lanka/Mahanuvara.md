@@ -40,17 +40,17 @@ markerFolder: ./Mahanuvara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mahanuvara](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara|Mahanuvara]] 
 
-### #is_/same_as :: [Mahanuvara.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.public|Mahanuvara.public]] 
 
-### #is_/same_as :: [Mahanuvara.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.internal|Mahanuvara.internal]] 
 
-### #is_/same_as :: [Mahanuvara.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.protect|Mahanuvara.protect]] 
 
-### #is_/same_as :: [Mahanuvara.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.private|Mahanuvara.private]] 
 
-### #is_/same_as :: [Mahanuvara.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.personal|Mahanuvara.personal]] 
 
-### #is_/same_as :: [Mahanuvara.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Mahanuvara.secret|Mahanuvara.secret]] 
 

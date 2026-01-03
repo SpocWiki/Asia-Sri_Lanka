@@ -117,3 +117,21 @@ Facebook_username: "100092730128935"
 > Colombo was designated as the commercial capital of Sri Lanka.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colombo)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Colombo,District/counties~Colombo/Colombo,City|Colombo,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Colombo,District/counties~Colombo/Colombo,City.public|Colombo,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Colombo,District/counties~Colombo/Colombo,City.internal|Colombo,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Colombo,District/counties~Colombo/Colombo,City.protect|Colombo,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Colombo,District/counties~Colombo/Colombo,City.private|Colombo,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Colombo,District/counties~Colombo/Colombo,City.personal|Colombo,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Colombo,District/counties~Colombo/Colombo,City.secret|Colombo,City.secret]] 
+

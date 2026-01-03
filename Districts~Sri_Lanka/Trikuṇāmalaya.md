@@ -40,17 +40,17 @@ markerFolder: ./Trikuṇāmalaya/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trikuṇāmalaya](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya|Trikuṇāmalaya]] 
 
-### #is_/same_as :: [Trikuṇāmalaya.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.public|Trikuṇāmalaya.public]] 
 
-### #is_/same_as :: [Trikuṇāmalaya.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.internal|Trikuṇāmalaya.internal]] 
 
-### #is_/same_as :: [Trikuṇāmalaya.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.protect|Trikuṇāmalaya.protect]] 
 
-### #is_/same_as :: [Trikuṇāmalaya.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.private|Trikuṇāmalaya.private]] 
 
-### #is_/same_as :: [Trikuṇāmalaya.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.personal|Trikuṇāmalaya.personal]] 
 
-### #is_/same_as :: [Trikuṇāmalaya.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Trikuṇāmalaya.secret|Trikuṇāmalaya.secret]] 
 

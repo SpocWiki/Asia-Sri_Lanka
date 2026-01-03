@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diyatalawa](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa|Diyatalawa]] 
 
-### #is_/same_as :: [Diyatalawa.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.public|Diyatalawa.public]] 
 
-### #is_/same_as :: [Diyatalawa.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.internal|Diyatalawa.internal]] 
 
-### #is_/same_as :: [Diyatalawa.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.protect|Diyatalawa.protect]] 
 
-### #is_/same_as :: [Diyatalawa.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.private|Diyatalawa.private]] 
 
-### #is_/same_as :: [Diyatalawa.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.personal|Diyatalawa.personal]] 
 
-### #is_/same_as :: [Diyatalawa.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Badulla/City/Diyatalawa.secret|Diyatalawa.secret]] 
 

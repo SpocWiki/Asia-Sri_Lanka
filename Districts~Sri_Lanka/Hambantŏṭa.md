@@ -40,17 +40,17 @@ markerFolder: ./Hambantŏṭa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hambantŏṭa](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa|Hambantŏṭa]] 
 
-### #is_/same_as :: [Hambantŏṭa.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.public|Hambantŏṭa.public]] 
 
-### #is_/same_as :: [Hambantŏṭa.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.internal|Hambantŏṭa.internal]] 
 
-### #is_/same_as :: [Hambantŏṭa.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.protect|Hambantŏṭa.protect]] 
 
-### #is_/same_as :: [Hambantŏṭa.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.private|Hambantŏṭa.private]] 
 
-### #is_/same_as :: [Hambantŏṭa.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.personal|Hambantŏṭa.personal]] 
 
-### #is_/same_as :: [Hambantŏṭa.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka/Districts~Sri_Lanka/Hambantŏṭa.secret|Hambantŏṭa.secret]] 
 
