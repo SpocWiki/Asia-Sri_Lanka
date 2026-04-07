@@ -118,7 +118,7 @@ markerFolder: .//
 [Area-Land::64630] 
 Continent :: [[Asia]]  
 [VehicleCode::CL] 
-Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]  
+Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte|Sri_Jayawardenapura-Kotte]]  
 
 ![[Emblem_of_Sri_Lanka.svg|350]] 
 

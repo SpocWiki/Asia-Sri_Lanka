@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::6.9] 
 [name::Sri Jayawardenapura-Kotte] 
 State ::  
-Country :: [[../../../../Sri_Lanka]]  
+Country :: [[../../../../Sri_Lanka|Sri_Lanka]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 
