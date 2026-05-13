@@ -116,7 +116,7 @@ Facebook_username: "100092730128935"
 > In 1978, when administrative functions were moved to Sri Jayawardenepura Kotte, 
 > Colombo was designated as the commercial capital of Sri Lanka.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Colombo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Colombo) 
 
 
 ## Confidential Links & Embeds: 

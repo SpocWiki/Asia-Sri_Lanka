@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kilinŏchchi/
 markerFolder: ./Kilinŏchchi/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

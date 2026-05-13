@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nuvara_Ĕliya/
 markerFolder: ./Nuvara_Ĕliya/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
