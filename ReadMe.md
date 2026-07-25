@@ -29,7 +29,7 @@ dv_UNTERM_Chinese_Formal: 斯里兰卡民主社会主义共和国
 dv_UNTERM_French_Formal: la République socialiste démocratique de Sri Lanka
 dv_UNTERM_Russian: Шри-Ланка
 dv_UNTERM_Russian_Formal: Демократическая Социалистическая Республика Шри-Ланка
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Sri_Lanka]]'
 dv_Sub-region_Name: '[[Southern Asia]]'
 dv_Region: 142
@@ -54,7 +54,7 @@ dv_ISO2: LK
 dv_ISO3: LKA
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
+  - '[[../../../../../WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
   - '[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka|Sri_Lanka]]'
   - '[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.public|Sri_Lanka.public]]'
   - '[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.internal|Sri_Lanka.internal]]'
@@ -346,17 +346,17 @@ dv_has_:
 dv_has_name_de: Sri Lanka
 dv_Area-Total: 65628
 dv_Area-Land: 64630
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: CL
-dv_Capital: '[[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte|Sri_Jayawardenapura-Kotte]]'
+dv_Capital: '[[Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte|Sri_Jayawardenapura-Kotte]]'
 dv_Alcohol-l: 0.8
 dv_Language-Id: 458
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 80.425
 dv_has_place_latitude: 6.86
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
+- '[[../../../../../WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
 - '[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka|Sri_Lanka]]'
 - '[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.public|Sri_Lanka.public]]'
 - '[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.internal|Sri_Lanka.internal]]'
@@ -871,7 +871,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Sri_Lanka/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -892,7 +892,7 @@ markerFile: [[Sri_Lanka]]
 
 ```leaflet
 id: Sri_Lanka_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -918,11 +918,11 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 
-![[Sri_Lanka/Emblem_of_Sri_Lanka.svg|350]]
+![[Emblem_of_Sri_Lanka.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sri-lanka.mp3|Anthem-Sri-lanka.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Sri-lanka.mp3|Anthem-Sri-lanka.mp3]]
 
-![[Sri_Lanka/Flag_of_Sri_Lanka.svg|350]]
+![[Flag_of_Sri_Lanka.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
